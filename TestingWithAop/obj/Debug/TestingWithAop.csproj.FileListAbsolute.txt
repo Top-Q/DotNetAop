@@ -1,0 +1,9 @@
+c:\users\nimrod_t\documents\visual studio 2012\Projects\TestSolution\TestingWithAop\bin\Debug\TestingWithAop.dll
+c:\users\nimrod_t\documents\visual studio 2012\Projects\TestSolution\TestingWithAop\bin\Debug\TestingWithAop.pdb
+c:\users\nimrod_t\documents\visual studio 2012\Projects\TestSolution\TestingWithAop\obj\Debug\TestingWithAop.csprojResolveAssemblyReference.cache
+c:\users\nimrod_t\documents\visual studio 2012\Projects\TestSolution\TestingWithAop\obj\Debug\TestingWithAop.dll
+c:\users\nimrod_t\documents\visual studio 2012\Projects\TestSolution\TestingWithAop\obj\Debug\TestingWithAop.pdb
+C:\Users\nimrod_t\documents\visual studio 2012\Projects\TestSolution\TestingWithAop\bin\Debug\PostSharp.dll
+C:\Users\nimrod_t\documents\visual studio 2012\Projects\TestSolution\TestingWithAop\bin\Debug\PostSharp.xml
+C:\Users\nimrod_t\documents\visual studio 2012\Projects\TestSolution\TestingWithAop\bin\Debug\TestingWithAop.pssym
+C:\Users\nimrod_t\documents\visual studio 2012\Projects\TestSolution\TestingWithAop\obj\Debug\TestingWithAop.dll.postsharp

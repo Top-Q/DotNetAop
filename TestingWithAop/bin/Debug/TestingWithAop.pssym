@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Symbols xmlns="http://schemas.postsharp.org/2.0/symbols">
+  <Class Class="#1=T:[TestingWithAop]TestingWithAop.Aspects.TestTrace">
+    <Instance Declaration="#2=M:[TestingWithAop]TestingWithAop.UnitTest1::TestMethod1()" Id="6b5bd9558db2bcb7">
+      <Target>
+        <JoinPoint Description="#3=Wrapped by advice(s) OnEntry, OnException, OnExit" />
+      </Target>
+    </Instance>
+  </Class>
+</Symbols>
